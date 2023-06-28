@@ -31,7 +31,7 @@ data
 ---------- val_masks
 ----- label_class_dict.csv
 ```
-Note that image file name must similar to its mask. For example, the image ```image1.jpg``` must have the mask ```image1.jpg```
+Note that an image file name must be similar to its mask. For example, the image ```image1.jpg``` must have the mask ```image1.jpg```
 
 ## Configurations
 All arguments are currently put in the ```Configs()``` class, just modify it. There are the explaination of some arguments
